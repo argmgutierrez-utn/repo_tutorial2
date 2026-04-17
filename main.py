@@ -1,4 +1,4 @@
-print ("Hola Mundo!")
+print ("Hola Mundo desde Auxiliar!")
 
 nombre = input("¿Cuál es tu nombre? ")
 
